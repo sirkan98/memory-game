@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/game.css"],"names":[],"mappings":"AAAA,KACI,mBACJ,CAMA,+BACI,YACJ,CAEA,gBACI,mBACJ","file":"main.f09cdc5c.chunk.css","sourcesContent":["span {\n    pointer-events: none;\n}\n\n.flip_card_false {\n    display: none;\n}\n\n.display_none {\n    display: none;\n}\n\n.pointer_events {\n    pointer-events: none;\n}"]}
